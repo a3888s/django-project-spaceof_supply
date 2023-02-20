@@ -1,0 +1,5 @@
+/bin
+/env
+/spaceof_supply/__pycache__
+/spaceof_supply/spaceof_supply/__pycache__
+gunicorn_config.py
